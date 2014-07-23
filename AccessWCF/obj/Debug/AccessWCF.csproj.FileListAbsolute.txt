@@ -1,0 +1,4 @@
+C:\Users\oem\documents\visual studio 2010\Projects\Portfolio\AccessWCF\bin\Debug\AccessWCF.dll
+C:\Users\oem\documents\visual studio 2010\Projects\Portfolio\AccessWCF\bin\Debug\AccessWCF.pdb
+C:\Users\oem\documents\visual studio 2010\Projects\Portfolio\AccessWCF\obj\Debug\AccessWCF.dll
+C:\Users\oem\documents\visual studio 2010\Projects\Portfolio\AccessWCF\obj\Debug\AccessWCF.pdb

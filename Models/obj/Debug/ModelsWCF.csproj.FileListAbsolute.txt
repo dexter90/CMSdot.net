@@ -1,0 +1,5 @@
+C:\Users\oem\documents\visual studio 2010\Projects\Portfolio\Models\bin\Debug\ModelsWCF.dll
+C:\Users\oem\documents\visual studio 2010\Projects\Portfolio\Models\bin\Debug\ModelsWCF.pdb
+C:\Users\oem\documents\visual studio 2010\Projects\Portfolio\Models\obj\Debug\ModelsWCF.dll
+C:\Users\oem\documents\visual studio 2010\Projects\Portfolio\Models\obj\Debug\ModelsWCF.pdb
+C:\Users\oem\documents\visual studio 2010\Projects\Portfolio\Models\obj\Debug\ModelsWCF.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+c:\users\oem\documents\visual studio 2010\Projects\Portfolio\Interfaces\bin\Debug\Interfaces.dll
+c:\users\oem\documents\visual studio 2010\Projects\Portfolio\Interfaces\bin\Debug\Interfaces.pdb
+c:\users\oem\documents\visual studio 2010\Projects\Portfolio\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+c:\users\oem\documents\visual studio 2010\Projects\Portfolio\Interfaces\obj\Debug\Interfaces.dll
+c:\users\oem\documents\visual studio 2010\Projects\Portfolio\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\oem\documents\visual studio 2010\Projects\Portfolio\Interfaces\bin\Debug\ModelsWCF.dll
+C:\Users\oem\documents\visual studio 2010\Projects\Portfolio\Interfaces\bin\Debug\ModelsWCF.pdb

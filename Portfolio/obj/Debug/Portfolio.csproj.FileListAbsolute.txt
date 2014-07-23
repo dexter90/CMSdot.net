@@ -1,0 +1,14 @@
+c:\users\oem\documents\visual studio 2010\Projects\Portfolio\Portfolio\bin\Debug\Portfolio.dll.config
+c:\users\oem\documents\visual studio 2010\Projects\Portfolio\Portfolio\bin\Debug\Portfolio.dll
+c:\users\oem\documents\visual studio 2010\Projects\Portfolio\Portfolio\bin\Debug\Portfolio.pdb
+c:\users\oem\documents\visual studio 2010\Projects\Portfolio\Portfolio\obj\Debug\Portfolio.dll
+c:\users\oem\documents\visual studio 2010\Projects\Portfolio\Portfolio\obj\Debug\Portfolio.pdb
+c:\users\oem\documents\visual studio 2010\Projects\Portfolio\Portfolio\bin\Debug\Interfaces.dll
+c:\users\oem\documents\visual studio 2010\Projects\Portfolio\Portfolio\bin\Debug\Interfaces.pdb
+c:\users\oem\documents\visual studio 2010\Projects\Portfolio\Portfolio\obj\Debug\Portfolio.csprojResolveAssemblyReference.cache
+C:\Users\oem\documents\visual studio 2010\Projects\Portfolio\Portfolio\bin\Debug\AccessWCF.dll
+C:\Users\oem\documents\visual studio 2010\Projects\Portfolio\Portfolio\bin\Debug\Definitions.dll
+C:\Users\oem\documents\visual studio 2010\Projects\Portfolio\Portfolio\bin\Debug\AccessWCF.pdb
+C:\Users\oem\documents\visual studio 2010\Projects\Portfolio\Portfolio\bin\Debug\Definitions.pdb
+C:\Users\oem\documents\visual studio 2010\Projects\Portfolio\Portfolio\bin\Debug\ModelsWCF.dll
+C:\Users\oem\documents\visual studio 2010\Projects\Portfolio\Portfolio\bin\Debug\ModelsWCF.pdb

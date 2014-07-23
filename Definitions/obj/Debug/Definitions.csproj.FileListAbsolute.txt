@@ -1,0 +1,5 @@
+C:\Users\oem\documents\visual studio 2010\Projects\Portfolio\Definitions\bin\Debug\Definitions.dll
+C:\Users\oem\documents\visual studio 2010\Projects\Portfolio\Definitions\bin\Debug\Definitions.pdb
+C:\Users\oem\documents\visual studio 2010\Projects\Portfolio\Definitions\obj\Debug\Definitions.dll
+C:\Users\oem\documents\visual studio 2010\Projects\Portfolio\Definitions\obj\Debug\Definitions.pdb
+C:\Users\oem\documents\visual studio 2010\Projects\Portfolio\Definitions\obj\Debug\Definitions.csprojResolveAssemblyReference.cache

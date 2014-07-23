@@ -1,0 +1,5 @@
+c:\users\oem\documents\visual studio 2010\Projects\Portfolio\Models\bin\Debug\Models.dll
+c:\users\oem\documents\visual studio 2010\Projects\Portfolio\Models\bin\Debug\Models.pdb
+c:\users\oem\documents\visual studio 2010\Projects\Portfolio\Models\obj\Debug\Models.dll
+c:\users\oem\documents\visual studio 2010\Projects\Portfolio\Models\obj\Debug\Models.pdb
+C:\Users\oem\documents\visual studio 2010\Projects\Portfolio\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
